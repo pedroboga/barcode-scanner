@@ -5,8 +5,8 @@ MVVM
 Coordinator
 
 <p float="left">
-<img src="BarcodeScanner/Screenshots/image1.png" width="250">
-<img src="BarcodeScanner/Screenshots/image2.png" width="250">
+<img src="BarcodeScanner/Screenshots/image1.PNG" width="250">
+<img src="BarcodeScanner/Screenshots/image2.PNG" width="250">
 </p>
 
 ## Using
