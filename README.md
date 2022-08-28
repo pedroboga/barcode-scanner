@@ -1,8 +1,8 @@
 # barcode-scanner
-A simple app to scan barcodes, made in SwiftUI - Sean Allen's course
-UIKit and SwiftUI integration
-MVVM
-Coordinator
+A simple app to scan barcodes, made in SwiftUI - Sean Allen's course.  
+UIKit and SwiftUI integration  
+MVVM  
+Coordinator  
 
 <p float="left">
 <img src="BarcodeScanner/Screenshots/image1.PNG" width="250">
